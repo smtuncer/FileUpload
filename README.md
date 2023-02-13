@@ -1,5 +1,5 @@
 # FileUpload
-Asp.Net Core 5.0
+Asp.N
 
 I used .Net 5.0.
 
