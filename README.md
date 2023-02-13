@@ -3,6 +3,8 @@ Asp.Net Core 5.0
 
 I used .Net 5.0.
 
+File upload, file count control, extension control, size control, size reduction, file deletion, add, update
+
 Code first for setup
 
 1)Change Connectionstring
